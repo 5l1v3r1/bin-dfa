@@ -1,6 +1,6 @@
 # bin-dfa
 
-This is a Clojure program which runs simple discrete finite automata.
+This is a Clojure program which runs deterministic finite automata.
 
 I am experimenting with Lisp. This is the first useful program I have written in
 it, so excuse any serious flaws with my code.
